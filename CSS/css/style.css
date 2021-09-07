@@ -1,0 +1,22 @@
+
+.container-flex{
+    display:flex;
+    flex-flow: nowrap;
+
+}
+.container{
+    display:inline-flex;
+    width: 20%;
+    height: 150px;  
+    padding: 0;
+    margin:auto;
+
+}
+.rojo{
+    color:yellow;
+    background-color: red;
+}
+.negro{
+    color:white;
+    background-color: black;
+}
